@@ -1,1 +1,2 @@
 # coffee-shop-sales-analysis-
+ Aims to analyze retail sales data to uncover actionable insights that could improve the performance of the coffee shop. The analysis focuses on understanding how sales vary by day and time, identifying peak sales periods, calculating monthly sales revenue, comparing sales across different store locations, determining the average price per order, and identifying the best-selling products by quantity and revenue. The goal is to enhance the coffee shop's overall performance by making data-driven decisions
